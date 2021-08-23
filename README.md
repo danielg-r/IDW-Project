@@ -9,6 +9,4 @@
 
 
 ## Planteamiento del problema
-El problema principal que la aplicación trata de solucionar es el de ayudar a un público que normalmente es visto como poco sociable y con dificultades para relacionarse con otras personas o encontrar pareja.
-La forma en que los ayuda es conectando a personas de la comunidad gamer entre sí basados en sus gustos y sus juegos favoritos, permitiendo compartir sesiones de juegos con personas con gustos similares y de ahí continuar conectando a las personas de una forma romántica o sentimental.
-En un inicio sólo se plantea la solución para la comunidad gamer, pero se pueden incluir otras sub-culturas que también se consideren con dificultades sociales. 
+El problema que existe hace años en el área metropolitana y zonas aledañas a Medellín dentro del contexto de la comunidad fotográfica, es que no existe un espacio en común o una comunidad sólida donde se pueda fomentar el crecimiento de nuevos talentos y la contratación de diferentes profesionales en base a su experiencia. Se entiende que existe una competencia y cada quién asume el reto de darse a conocer por su cuenta, pero también estaría bien tener ese punto de encuentro donde tanto clientes como fotógrafos puedan mostrar su nivel y conseguir al profesional adecuado para sus necesidades respectivamente. Esta plataforma permitiría abrir el mercado y flexibilizarlo, al darle la oportunidad a nuevas personas a incorporarse a un ambiente altamente competitivo con igual de oportunidades, y pudiendo destacar mes a mes por su trabajo.
