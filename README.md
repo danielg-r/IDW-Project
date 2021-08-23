@@ -1,4 +1,4 @@
-# GameLovers.io
+# Photographers' Hub 
 
 ## Introducción
 En este repositorio se estará guardando y compilando la información respectiva para el proyecto del curso Introducción al Desarrollo Web de la UPB 2021-2.
