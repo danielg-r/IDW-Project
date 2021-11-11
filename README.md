@@ -16,3 +16,11 @@ El proyecto se va a realizar como trabajo final de la materia de Introducción a
 
 ## Estado del Arte
 Durante la investigación previa al desarrollo del proyecto, no se encontró ninguna página web que cumpla con las funciones descritas por el proyecto, se encontraron principalmente aplicaciones que permiten a una persona en particular agendar citas con clientes y sincronizarlas con diferentes calendarios, pero ninguna de éstas tomaba el mismo enfoque de tener un repositorio de fotógrafos con sus trabajos. El valor agregado de nuestro proyecto es ese, que sirve como una red social / página de agendación de citas, en lugar de sólo dejar a su suerte a los fotógrafos y que tengan que conseguir sus propios clientes y citas.
+
+## Objetivo General
+Servir como punto de encuentro entre fotógrafos y clientes y a la vez servir como puente entre estos para generar citas y acordar sesiones de fotografía dentro de diferentes ámbitos y aspectos.
+
+## Objetivos Específicos
+- Fortalecer a la comunidad de fotógrafos incentivando una competencia sana y un mercado justo en el que todos tengan las mismas oportunidades de competir y exponer su trabajo, y que sean los clientes quienes tengan la decisión final de con quién agendar.
+- Servir como una especie de red social de fotógrafos donde se puedan enfocar únicamente en fotografía y sus trabajos sin pensar en otros aspectos que son los principales en otras redes sociales.
+- Mantener una amplia base de datos tanto de clientes como de fotográfos y personas apasionadas y aficionadas por el mundo de la fotografía, pudiendo así generar ingresos al conectar a estar personas con aliados estratégicos o contenido que les pueda interesar de fotografía.
