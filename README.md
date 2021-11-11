@@ -13,3 +13,6 @@ El problema que existe hace años en el área metropolitana y zonas aledañas a 
 
 ## Justificación
 El proyecto se va a realizar como trabajo final de la materia de Introducción al desarrollo web durante el semestre 2021-2, el propósito del proyecto es principalmente el de demostrar los conocimientos adquiridos durante el curso en el campo de HTML, CSS y JavaScript. Más allá de esto, se presenta el proyecto como un prototipo de una web funcional que en un futuro podría resolver la necesidad de diversos fotógrafos del área metropolitana y Valle de Aburrá de tener un espacio donde compartir sus trabajos y acceder a más clientes interesados en trabajos de fotografía.
+
+## Estado del Arte
+Durante la investigación previa al desarrollo del proyecto, no se encontró ninguna página web que cumpla con las funciones descritas por el proyecto, se encontraron principalmente aplicaciones que permiten a una persona en particular agendar citas con clientes y sincronizarlas con diferentes calendarios, pero ninguna de éstas tomaba el mismo enfoque de tener un repositorio de fotógrafos con sus trabajos. El valor agregado de nuestro proyecto es ese, que sirve como una red social / página de agendación de citas, en lugar de sólo dejar a su suerte a los fotógrafos y que tengan que conseguir sus propios clientes y citas.
