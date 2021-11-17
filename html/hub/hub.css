@@ -1,0 +1,128 @@
+﻿#name {
+    font-weight: bold;
+    color: #132640;
+}
+
+.main_content_container {
+    height: 80%;
+    width: 100%;
+    display: inline-flex;
+    align-content: center;
+    align-items: center;
+    position: fixed;
+}
+
+.categories {
+    display: block;
+    margin-left: 15px;
+}
+
+.category_buttons_container {
+    position: relative;
+    display: block;
+    left: 15px;
+    height: 80%;
+}
+
+.category_button {
+    border-radius: 5px;
+    background-color: #132640;
+    color: white;
+    width: 100%;
+    height: 45px;
+    display: block;
+    margin-top: 10px;    
+}
+
+.category_button:hover {
+    transition: background-color 0.2s ease;
+    background-color: #5C6373;
+}
+
+.vertical_separator {
+    display: block;
+    border: 1px solid black;
+    background-color: black;
+    width: 1px;
+    height: 90%;
+    margin-left: 50px;
+    margin-top: 70px;
+    
+}
+
+.results_grid {
+    display: grid;
+    overflow: auto;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    column-gap: 15px;
+    row-gap: 5px;
+    height: 90%;
+    width: 75%;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.profile_card {
+    background-color: #D6D5F2;
+    border-radius: 5px;
+    box-shadow: black 1px 0 5px;
+    border: 1px solid black;
+    height: 160px;
+    
+}
+
+.profile_picture {
+    float: left;
+    display: inline-flex;
+    height: 85%;
+    margin: 10px 0px 10px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: #0D0D0D 1px 2px 3px;
+}
+
+.profile_info {
+    width: 60%;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 15px;
+    line-height: 10px;
+}
+
+.description {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.highlight {
+    font-weight: normal;
+    text-shadow: #9BA0BF 2px 1px 1px;
+    color: #132640;    
+}
+
+.profile_button {
+    font-size: 16px;
+    color: white;
+    background-color: #132640;
+    width: 80%;
+    height: 25px;
+    margin-left: 10%;
+    border-radius: 4px;
+}
+
+.profile_button:hover {
+    transition: background-color 0.2s ease;
+    background-color: #5C6373;
+}
+
+
+
+/*noinspection CssOverwrittenProperties*/
+colors {
+    color: #D6D5F2;
+    color: #9BA0BF;
+    color: #5C6373;
+    color: #132640;
+    color: #0D0D0D;
+}
